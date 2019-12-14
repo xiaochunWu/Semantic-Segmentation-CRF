@@ -207,7 +207,7 @@ you can view all results through the following table.
 |repo|deeplabv3+deeplabv3++deeplabv3+|-|-|88.1|
 |repo|deeplabv3+deeplabv3++deeplabv3++denseCRF|-|-|84.12|
 
-You can get more details in my [blog](http://www.wuxiaochun.cn/2018/11/23/Deeplab-v3/)
+You can get more details in my [blog](http://wuxiaochun.cn/2018/11/23/semantic-segmentation-Implementation/#more)
 
 # Acknowledgements
 ---
